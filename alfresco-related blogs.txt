@@ -13,9 +13,6 @@ http://blogs.alfresco.com/wp/rfernandes
 El Blog de FEGOR
 http://www.fegor.com
 
-All Events - Ixxus
-http://www.ixxus.com/rss/event/
-
 Alfrescian
 http://blog.alfrescian.com/
 
@@ -40,13 +37,10 @@ http://becpg.blogspot.com/
 Appnovation Technologies blogs
 http://www.appnovation.com/blogs
 
-Alfresco Developer Blog » Dave Drap...
-http://blogs.alfresco.com/wp/developer
-
 Open Source Technical Blog
 http://jmuras.com/blog
 
-ITD Systems company blog (I'M NOT SURE ABOUT THIS ONE :p)
+ITD Systems company blog
 http://blog.itdhq.com/
 
 blyx.com : : Blog : : Toni de la Fuente
@@ -94,9 +88,6 @@ http://blog.tsgrp.com
 On almost every topic
 http://bpeters.tumblr.com
 
-Alfresco Developer Blog » Mike Hatf...
-http://blogs.alfresco.com/wp/developer
-
 Arvixe Blog
 http://blog.arvixe.com
 
@@ -121,7 +112,7 @@ http://blogs.aca-it.be/blogs/-/blogs/rss
 Word of Pie
 http://wordofpie.com
 
-I exist as I am
+Jared Ottley
 http://jared.ottleys.net
 
 BataON
@@ -145,5 +136,80 @@ http://formtek.com/blog
 Alfresco Blogs
 http://blogs.alfresco.com/wp
 
-Jared Ottley
-http://jared.ottleys.net
+Ben Switzer's Blog
+https://benswitzer.wordpress.com/
+
+Rob Ferguson's Blog
+http://robferguson.org/tag/alfresco/
+
+Tomáš Kubík's Blog
+http://ecm.vsemozny.cz/
+
+Rasmus Melgaard's Blog
+http://experiencewithalfresco.blogspot.no/
+
+Yogesh Prajapati's Blog
+http://alfrescopj.blogspot.in/
+
+Samuel Masue's Blog (will be in the future)
+http://smasue.github.io/
+
+IT Tips by Douglas :)
+http://douglascrp.blogspot.ru/
+
+Alfresco Blog
+http://alfrescoblog.com/
+
+Venzia Company's Blog
+http://venzia.es/tags/alfresco
+
+Piergiorgio Lucidi's Tech Blog
+http://www.open4dev.com/
+
+Heimo Laukkanen's Blog
+https://huima.wordpress.com/category/alfresco/
+
+Deepak Keswani's Blog
+http://deepak-keswani.blogspot.in/
+
+cm360
+http://www.cm360.net/wp/category/alfresco/
+
+Open Source ECM
+https://tpeelen.wordpress.com/
+
+seed Information Management Consulting Company's Blog
+http://www.seedim.com.au/blogs
+
+Binesh Gummadi's Blog
+http://binesh.in/category/alfresco/
+
+BabyAlfresco
+http://babyalfresco.blogspot.in/
+
+Daniel Gradecak's Blog
+http://gradecak.blogspot.ru/
+
+Alfresco Customization
+http://customizealfresco.blogspot.in/
+
+Ben Kahn's Blog
+http://xkahn.zoned.net/blog/
+
+fileuploadalfresco
+http://fileuploadalfresco.blogspot.ru/
+
+mindthegab.com
+http://mindthegab.com/
+
+Luis Cabaceira on Alfresco
+http://blogs.alfresco.com/wp/lcabaceira/
+
+Word of maoo
+http://blog.session.it/
+
+Ray Gauss II
+http://rgauss.com/category/alfresco/
+
+Joram Barrez's Blog
+http://www.jorambarrez.be/blog/
