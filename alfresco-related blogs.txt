@@ -1,6 +1,3 @@
-Andy
-http://blogs.alfresco.com/wp/andyh/
-
 Armedia Blog
 http://www.armedia.com/blog
 
@@ -10,14 +7,8 @@ http://fcorti.com
 Rui Fernandes
 http://blogs.alfresco.com/wp/rfernandes
 
-El Blog de FEGOR
-http://www.fegor.com
-
 Alfrescian
 http://blog.alfrescian.com/
-
-zylk.net
-http://www.zylk.net/c/blogs/rss?companyId=10097
 
 Contezza - Blog
 http://www.contezza.nl/blog
@@ -50,7 +41,7 @@ Redpill Linpro Alfresco Team
 http://alfresco.blog.redpill-linpro.com
 
 Blogs - Ixxus
-http://www.ixxus.com/blogs
+http://www.ixxus.com/blog
 
 aegif Labo Blog
 http://aegif-labo.blogspot.com
@@ -77,7 +68,7 @@ CONTENTREICH
 http://www.contentreich.de
 
 Blue Fish Development Group
-http://www.bluefishgroup.com
+http://www.bluefishgroup.com/resources/blog/
 
 Kev's blog
 http://blogs.alfresco.com/wp/kevinr
@@ -120,9 +111,6 @@ http://www.bataon.com
 
 Erik Winlöf's blog
 http://blogs.alfresco.com/wp/ewinlof
-
-Alfresco Global Feed
-http://blogs.alfresco.com/wp
 
 David Webster's Blog
 http://blogs.alfresco.com/wp/dwebster
@@ -210,6 +198,3 @@ http://blog.session.it/
 
 Ray Gauss II
 http://rgauss.com/category/alfresco/
-
-Joram Barrez's Blog
-http://www.jorambarrez.be/blog/
