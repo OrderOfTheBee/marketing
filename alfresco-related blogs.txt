@@ -198,3 +198,6 @@ http://blog.session.it/
 
 Ray Gauss II
 http://rgauss.com/category/alfresco/
+
+ECM Stuff Blog
+http://www.marversolutions.com/wordpress/ecm-stuff-blog/
